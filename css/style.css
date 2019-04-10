@@ -1,0 +1,118 @@
+body {
+  background-color: #171717;
+}
+#wordbox {
+  background-color: #171717;
+  position: absolute;
+  top: 2.5%;
+  left: 1.25%;
+  width: 5%;
+  height: 10%;
+}
+.words {
+  color: lightgrey;
+  font-size: 250%;
+}
+#namebox {
+  background-color: #171717;
+  position: absolute;
+  bottom: 4.5%;
+  right: 1.25%;
+  width: 11%;
+  height: 5%;
+  text-align: left;
+}
+#names {
+  color: lightgrey;
+  font-size: 150%;
+}
+#info {
+  color: lightgrey;
+  font-size: 72%;
+}
+#animation {
+  border-radius: 50%;
+  background-color: white;
+  width: 25%;
+  height: 50%;
+  position: absolute;
+  top: 25%;
+  left: 37.5%;
+}
+.circle {
+  border-radius: 50%;
+  width: 10%;
+  height: 20%;
+}
+#red {
+  background-color: red;
+  opacity: 1;
+  position: absolute;
+  top: 2.5%;
+  left: 45%;
+  border: 5px;
+  border-color: transparent;
+}
+#orange{
+  background-color: orange;
+  opacity: 1;
+  position: absolute;
+  top: 13%;
+  left: 58%;
+  border: 5px;
+  border-color: transparent;
+}
+#yellow{
+  background-color: yellow;
+  opacity: 1;
+  position: absolute;
+  top: 40%;
+  left: 63.75%;
+  border: 5px;
+  border-color: transparent;
+}
+#green{
+  background-color: green;
+  opacity: 1;
+  position: absolute;
+  bottom: 13%;
+  left: 58%;
+  border: 5px;
+  border-color: transparent;
+}
+#blue{
+  background-color: blue;
+  opacity: 1;
+  position: absolute;
+  top: 77.5%;
+  left: 45%;
+  border: 5px;
+  border-color: transparent;
+}
+#purple{
+  background-color: purple;
+  opacity: 1;
+  position: absolute;
+  left: 32%;
+  bottom: 13%;
+  border: 5px;
+  border-color: transparent;
+}
+#black{
+  background-color: black;
+  opacity: 1;
+  position: absolute;
+  top: 13%;
+  left: 32%;
+  border: 5px;
+  border-color: transparent;
+}
+#grey{
+  background-color: grey;
+  opacity: 1;
+  position: absolute;
+  top: 40%;
+  left: 26.25%;
+  border: 5px;
+  border-color: transparent;
+}
